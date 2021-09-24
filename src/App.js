@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Edit <code>src/App.js</code> and save to reload. The file was changed
         </p>
         <a
           className="App-link"
@@ -18,6 +18,9 @@ function App() {
           Learn React
         </a>
       </header>
+      <p className= "App-intro">
+        Hi, I don't know if this will actually work
+      </p>
     </div>
   );
 }
